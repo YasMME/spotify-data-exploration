@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Specific Files
+MyData/Userdata.json
+MyData/Identifiers.json
+MyData/Identity.json
+MyData/Inferences.json
+MyData/Payments.json
+MyData/SearchQueries.json
+MyData/Userdata.json
+MyData/Follow.json
